@@ -10,7 +10,7 @@
 
 [![]()]()
 
-[![MatheusHenrique421's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique421&show_icons=true&theme=merko)]
+![MatheusHenrique421's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique421&show_icons=true&theme=merko)
 
 ## Tecnologias utilizadas diariamente 🤓🤓🤓
 
