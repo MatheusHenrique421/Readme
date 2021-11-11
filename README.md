@@ -23,7 +23,7 @@
 </div>
 
 #
-#Snake on commit
+## Snake on commit
 ![Snake animation](https://github.com/MatheusHenrique421/MatheusHenrique421/blob/output/github-contribution-grid-snake.svg)
 
 # 
