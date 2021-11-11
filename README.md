@@ -29,5 +29,5 @@
 
 [![]()]()
 
-![Snake animation](https://github.com/MatheusHenrique421/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusHenrique421)
 
