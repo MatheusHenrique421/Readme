@@ -2,8 +2,6 @@
 
 # [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://matheushenrique421.github.io/Portifolio_MatheusHenrique-main/)
 
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
-
 ![MatheusHenrique421's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique421&show_icons=true&theme=merko)
 
 ## Tecnologias utilizadas diariamente 🤓🤓🤓
