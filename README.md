@@ -3,8 +3,6 @@
 
 ![MatheusHenrique421's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique421&show_icons=true&theme=merko)
 
-## Tecnologias utilizadas diariamente 🤓🤓🤓
-
 <div>
 <img aligin="center" alt="" height="50" wisth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  
