@@ -17,8 +17,13 @@
    
 <img aligin="center" alt="" height="40" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
 </div>
+
 #
+
 ## Snake on commit
+
 ![Snake animation](https://github.com/MatheusHenrique421/MatheusHenrique421/blob/output/github-contribution-grid-snake.svg)
+
 # 
+
 [![]()]()
