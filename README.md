@@ -13,6 +13,9 @@
 <img aligin="center" alt="" height="50" wisth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
  
 <img aligin="center" alt="" height="50" wisth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+ 
+<img aligin="center" alt="" height="50" wisth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+ 
   
 <img aligin="center" alt="" height="50" wisth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
 </div>
