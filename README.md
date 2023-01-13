@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
+
 ## Boa pra nós ✌️, eu sou o Matheus Henrique.
 > Desenvolvedor Web Full Stack Jr.
 #
