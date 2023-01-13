@@ -3,7 +3,8 @@
 ## Boa pra nós ✌️, eu sou o Matheus Henrique.
 > Desenvolvedor Web Full Stack Jr.
 #
-[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://matheushenrique421.github.io/Meu-primeiro-Portifolio/)✌️
+> Estou trabalhando minhas habilidades e busco melhorar e aplica-las neste 
+> [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheushenrique421.github.io/Meu-primeiro-Portifolio/)
 #
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-s-436410173/)
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_henrique421/)
