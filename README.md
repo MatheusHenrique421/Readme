@@ -7,7 +7,7 @@
 #
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-s-436410173/)
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_henrique421/)
-[![Website](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://www.youtube.com/watch?v=TsaLQAetPLU)
+[![Website](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_mhs421/)
 
 #
 ![MatheusHenrique421's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHenrique421&show_icons=true&theme=merko)
